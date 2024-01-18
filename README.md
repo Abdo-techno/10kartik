@@ -73,7 +73,7 @@
       <kbd>Design Tools</kbd>
       <br>
       <br>
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="figma" title="Figma"/> 
+      <img width="30px" src="https://cdn.iconscout.com/icon/free/png-512/free-figma-2296071-1912030.png?f=webp&w=256" alt="figma" title="Figma"/> 
       <img width="30" src="https://user-images.githubusercontent.com/25181517/186711335-a3729606-5a78-4496-9a36-06efcc74f800.png" alt="Swagger" title="Swagger"/>
       <img width="110px" src="https://blog.dbdiagram.io/content/images/2020/04/dbdiagram_logo_text_720.png" alt="dbdiagram" title="DBdiagram.io"/>
     </kbd>
@@ -105,7 +105,7 @@
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" title="Reactjs"/>
     </kbd>
     <kbd>
-      <kbd>Database</kbd>
+      <kbd>Database, Cache & Queue</kbd>
       <br>
       <br>
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" alt="mysql" title="MySQL"/>
